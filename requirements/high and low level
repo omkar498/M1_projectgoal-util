@@ -11,8 +11,9 @@ Requirements:
              High level:
                         1:Program wil do addition, substraction, multiplication,division.
                         2:It will find square and also square root of a number.
+                        3:program will also do operations on factorial,get cube,square, and square root.
              
              Low level :
                         1:Variables to store results,take operations,take numeric values.
                         2:Switch case to jump to operators selected by user.
-                        
+                        3:divide operations will not divide with zero
