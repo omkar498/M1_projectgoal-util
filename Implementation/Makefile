@@ -8,9 +8,9 @@ CXXFLAGS = -std=c11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = Implementation
+APPNAME = myapp
 EXT = .c
-SRCDIR = \Users\HP\Documents\c project\M1_projectgoal-util
+SRCDIR = src
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
