@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 
-#define note "maze mat lo, enter the valid operation"
+#define note "enter the valid operation"
 void addition();
 void subtraction();
 void multiplication();
