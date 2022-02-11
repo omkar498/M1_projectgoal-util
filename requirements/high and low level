@@ -16,4 +16,10 @@ Requirements:
              Low level :
                         1:Variables to store results,take operations,take numeric values.
                         2:Switch case to jump to operators selected by user.
-                        3:divide operations will not divide with zero
+                        3:Divide operations will not divide with zero
+
+references:
+           1:Seek help from colleagues
+
+           Improvement:
+                       1:practice and improved the code
