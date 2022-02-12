@@ -1,8 +1,8 @@
 #Target : Dependencies
 #<TAB>commands
 
-Build : calculator.c
-	gcc calculator.c -o calculator.out
+Build : calculatorMain.c calculator.out
+	gcc calculatorMain.c calculator.c -o calculator.out
 
 Run : calculator.out
 	.\calculator.out
