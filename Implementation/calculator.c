@@ -1,6 +1,8 @@
-#include<stdio.h>
+#include"stdio.h"
+#include"math.h"
 #include<stdlib.h>
-#include<math.h>
+
+
 
 #define note "enter the valid operation"
 void addition();
@@ -100,7 +102,8 @@ void factorial(){
     printf("Enter the number you want the factorial of: ");
     scanf("%d",&n);
     factorial=1;
-    for(int i=1;i<=n;i++){
+    for(int i=1;i<=n;i++)
+    {
         factorial=factorial*i; // factorial*=i;
     }
     printf("\nFactorial of %d is %d",n,factorial);
