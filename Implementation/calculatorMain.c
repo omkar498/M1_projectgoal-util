@@ -1,4 +1,7 @@
 #include"calculator.h"
+extern void test_main();
+
+
 int main()
 {
     printf("\t\tscientific calculator!!\n\n");

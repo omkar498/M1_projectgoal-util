@@ -1,3 +1,13 @@
+/**
+ * @file calculator.h
+ * @author omkar sunil jadhav
+ * @brief this project is about scientific calculator
+ * @version 0.1
+ * @date 2022-03-01
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "calculator.h"
 
 //header gaurd, mandatory

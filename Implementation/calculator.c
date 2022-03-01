@@ -4,6 +4,7 @@
 
 
 
+
 #define note "enter the valid operation"
 void addition();
 void subtraction();
